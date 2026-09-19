@@ -60,4 +60,3 @@ jupyter notebook cpf_allocation_rates.ipynb
 ## Author
 
 Ng Ka Wai
-[linkedin.com/in/ngkawaix](https://www.linkedin.com/in/ngkawaix/)
